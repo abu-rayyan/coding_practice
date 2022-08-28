@@ -14,6 +14,5 @@ while i <len(A):
     if (A[i]-min_num>4):
         containers+=1
         min_num=A[i]
-
     i+=1
     
